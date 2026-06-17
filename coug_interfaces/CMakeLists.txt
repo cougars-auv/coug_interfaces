@@ -15,7 +15,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/GraphMetrics.msg"
   "msg/WayPointList.msg"
   "srv/BagRecord.srv"
-  DEPENDENCIES std_msgs builtin_interfaces geographic_msgs
+  DEPENDENCIES std_msgs builtin_interfaces geographic_msgs geometry_msgs
 )
 
 if(BUILD_TESTING)
