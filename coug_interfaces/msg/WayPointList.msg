@@ -1,3 +1,3 @@
 std_msgs/Header header
 
-geographic_msgs/WayPoint[] waypoints
+coug_interfaces/WayPoint[] waypoints

@@ -13,6 +13,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/AgentStatus.msg"
   "msg/ControlSetpoint.msg"
   "msg/GraphMetrics.msg"
+  "msg/WayPoint.msg"
   "msg/WayPointList.msg"
   "srv/BagRecord.srv"
   DEPENDENCIES std_msgs builtin_interfaces geographic_msgs geometry_msgs
