@@ -3,7 +3,7 @@
 <package format="3">
   <name>coug_interfaces</name>
   <version>0.0.0</version>
-  <description>Message definitions for the CougUV</description>
+  <description>CoUGARs custom ROS 2 message and service definitions.</description>
   <maintainer email="snelsond@byu.edu">snelsondurrant</maintainer>
   <license>Apache-2.0</license>
 
