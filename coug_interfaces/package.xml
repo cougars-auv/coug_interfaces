@@ -3,7 +3,7 @@
 <package format="3">
   <name>coug_interfaces</name>
   <version>0.0.0</version>
-  <description>CoUGARs custom ROS 2 message and service definitions.</description>
+  <description>Custom ROS 2 message and service definitions.</description>
   <maintainer email="snelsond@byu.edu">snelsondurrant</maintainer>
   <license>Apache-2.0</license>
   <url type="repository">https://github.com/cougars-auv/coug_interfaces</url>
