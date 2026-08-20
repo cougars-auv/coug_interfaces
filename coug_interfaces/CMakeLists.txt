@@ -9,6 +9,8 @@ ament_auto_find_build_dependencies()
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/AgentStatus.msg"
   "msg/ControlSetpoint.msg"
+  "msg/DvlBeam.msg"
+  "msg/DvlBeamList.msg"
   "msg/GraphMetrics.msg"
   "msg/WayPoint.msg"
   "msg/WayPointList.msg"
