@@ -1,4 +1,4 @@
-geographic_msgs/GeoPoint position
+geometry_msgs/Point position
 
 float64 speed_rpm
 float64 capture_radius

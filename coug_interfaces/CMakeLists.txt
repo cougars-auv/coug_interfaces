@@ -13,7 +13,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/WayPoint.msg"
   "msg/WayPointList.msg"
   "srv/BagRecord.srv"
-  DEPENDENCIES builtin_interfaces geographic_msgs geometry_msgs std_msgs
+  DEPENDENCIES builtin_interfaces geometry_msgs std_msgs
 )
 
 ament_auto_package()
