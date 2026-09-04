@@ -1,0 +1,25 @@
+repositories:
+  coug_comms:
+    type: git
+    url: https://github.com/cougars-auv/coug_comms.git
+    version: main
+  coug_fg:
+    type: git
+    url: https://github.com/cougars-auv/coug_fg.git
+    version: main
+  coug_helm:
+    type: git
+    url: https://github.com/cougars-auv/coug_helm.git
+    version: main
+  coug_holoocean:
+    type: git
+    url: https://github.com/cougars-auv/coug_holoocean.git
+    version: main
+  coug_mapviz:
+    type: git
+    url: https://github.com/cougars-auv/coug_mapviz.git
+    version: main
+  coug_rqt:
+    type: git
+    url: https://github.com/cougars-auv/coug_rqt.git
+    version: main
