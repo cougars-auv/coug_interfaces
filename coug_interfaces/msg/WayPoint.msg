@@ -6,6 +6,7 @@ float64 capture_radius_z
 float64 slip_radius
 float64 slip_radius_z
 
+uint16 tag_id
 geometry_msgs/Point[] subwaypoints
 
 uint8 GPS = 0
