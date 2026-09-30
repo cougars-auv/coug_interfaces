@@ -34,12 +34,10 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DvlBeam.msg"
   "msg/DvlBeamList.msg"
   "msg/GraphMetrics.msg"
-  "msg/LabeledCluster.msg"
-  "msg/LabeledClusterList.msg"
   "msg/WayPoint.msg"
   "msg/WayPointList.msg"
   "srv/BagRecord.srv"
-  DEPENDENCIES builtin_interfaces geometry_msgs sensor_msgs std_msgs vision_msgs
+  DEPENDENCIES builtin_interfaces geometry_msgs std_msgs
 )
 
 ament_auto_package()
